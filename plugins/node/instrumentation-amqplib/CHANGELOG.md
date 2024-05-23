@@ -6,6 +6,15 @@
   * devDependencies
     * @opentelemetry/contrib-test-utils bumped from ^0.34.3 to ^0.35.0
 
+## [0.37.1](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-amqplib-v0.37.0...instrumentation-amqplib-v0.37.1) (2024-05-23)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @opentelemetry/contrib-test-utils bumped from ^0.39.0 to ^0.40.0
+
 ## [0.37.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-amqplib-v0.36.0...instrumentation-amqplib-v0.37.0) (2024-04-25)
 
 

@@ -12,6 +12,15 @@
   * devDependencies
     * @opentelemetry/contrib-test-utils bumped from ^0.36.0 to ^0.37.0
 
+## [0.2.8](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/resource-detector-azure-v0.2.7...resource-detector-azure-v0.2.8) (2024-05-23)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @opentelemetry/contrib-test-utils bumped from ^0.39.0 to ^0.40.0
+
 ## [0.2.7](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/resource-detector-azure-v0.2.6...resource-detector-azure-v0.2.7) (2024-04-25)
 
 
